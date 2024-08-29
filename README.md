@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mhamed</h1>
 <h3 align="center">I'm Embedded System Engineering student who is interested in in Cars, Robotics and Control Algorithms</h3>
 
-(https://github.com/MED-Mhamed/MED-Mhamed/blob/main/README.png)
+![I am an Embedded System Enginneer](https://github.com/MED-Mhamed/MED-Mhamed/blob/main/README.png)
 
 - 📫 How to reach me **mohamed.mhamed.mh@gmail.com** or **mohamed.mhamed@eniso.u-sousse.tn**
 

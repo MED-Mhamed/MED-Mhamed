@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Mhamed
-https://github.com/MED-Mhamed/MED-Mhamed/blob/main/README.png
-
+### Hi there 👋, my name is Mhamed
+#### I am Embedded System Engineering student
+![I am Embedded System Engineering student](https://github.com/MED-Mhamed/MED-Mhamed/blob/main/README.png)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
